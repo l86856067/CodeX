@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CodeX</string>
+    <string name="main_btn1">压缩图片的Demo</string>
 </resources>
