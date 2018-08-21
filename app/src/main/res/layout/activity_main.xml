@@ -17,6 +17,12 @@
             android:layout_height="50dp"
             android:text="@string/main_btn1"/>
 
+        <Button
+            android:id="@+id/main_btn2"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/main_btn2"/>
+
     </LinearLayout>
 
 </ScrollView>
