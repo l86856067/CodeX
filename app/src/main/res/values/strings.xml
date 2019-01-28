@@ -3,7 +3,7 @@
     <string name="FACEBOOK_APP_ID">264010424285616</string>
     <string name="ACCOUNT_KIT_CLIENT_TOKEN">769e39547aa6a2e263e106190a462ae0</string>
 
-    <string name="main_btn1">压缩图片的Demo</string>
+    <string name="main_btn1">添加日历提醒</string>
     <string name="main_btn2">自定义相机拍摄身份证</string>
     <string name="main_btn3">第三方登录</string>
     <string name="main_btn4">获取手机短信列表</string>
@@ -12,7 +12,9 @@
     <string name="main_btn7">开启猎鹰服务</string>
     <string name="main_btn8">关闭猎鹰服务</string>
     <string name="main_btn9">FACEBOOK ACCOUNT KIT</string>
-    <string name="main_btn10">获取FACEBOOK KIT 手机号</string>
+    <string name="main_btn10">检查登录状态</string>
+    <string name="main_btn11">推出Facebook Account K</string>
+    <string name="main_btn12">获取口令</string>
     <string name="camera_btn1">拍摄身份证</string>
     <string name="three_btn1">LINE登录</string>
     <string name="three_btn2">FACEBOOK登录</string>
